@@ -1,1 +1,1 @@
-"This is a tutorail for Elzero gaming website" 
+"https://marwan-elsharqawy.github.io/Elzero-web-schobsite-_-trial/" 
